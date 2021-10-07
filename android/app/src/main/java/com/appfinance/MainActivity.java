@@ -1,6 +1,7 @@
 package com.appfinance;
 
 import android.os.Bundle;
+import android.os.Pacote; 
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -42,4 +43,8 @@ public class MainActivity extends ReactActivity {
             }
         };
     }
+    @Sobrepor
+    protected void onCreate ( Bundle savedInstanceState ) {   
+        super . onCreate ( nulo ) ;
+}
 }
